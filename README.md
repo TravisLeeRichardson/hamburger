@@ -1,4 +1,4 @@
-# httpSandbox
+# hamburger
 
 
 This code calls out to an API via "GET" and then returns a random _hamburger_ from the result.<br>
